@@ -1,5 +1,8 @@
 # QWEN-AI-Compositing
-AI compositing workflow built on Qwen Image Edit 2509 with Fusion LoRA. Import BG and subject, remove background, composite and mask areas (including shadows), then prompt the model to auto-match lighting, color, and shadows for a seamless, realistic result. Credits to the Qwen model and LoRA creators.
+**An enhanced AI compositing workflow** built on Qwen Image Edit 2509 with Fusion LoRA.
+Unlike the default setup on the QWEN Fusion LoRA page — which often alters color balance, positioning, and fine details — **this workflow preserves the original plate perfectly**, modifying only the masked regions you define.
+Simply import your background and subject, remove the background, composite and mask areas (including shadows), then provide a natural-language prompt describing your desired final look.
+Credits to the Qwen model and LoRA creators.
 
 
 # 🧠 AI Compositing Workflow – Subject Integration in ComfyUI
