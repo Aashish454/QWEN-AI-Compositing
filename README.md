@@ -4,6 +4,7 @@ Unlike the default setup on the QWEN Fusion LoRA page — which often alters col
 Simply import your background and subject, remove the background, composite and mask areas (including shadows), then provide a natural-language prompt describing your desired final look.
 Credits to the Qwen model and LoRA creators.
 
+# Video Demo - https://youtu.be/np99SCBUNo4
 
 # 🧠 AI Compositing Workflow – Subject Integration in ComfyUI
 
